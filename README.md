@@ -1,5 +1,5 @@
 # Arbitrage_Bot_JS_v1
-
+* Still in `Development.`
 This bot monitors the Uniswap DEX for arbitrage opportunities and executes trades on the DEX when it identifies an opportunity. It uses the Uniswap API to fetch data about token prices and pairs, and the `FlashLoanArbitrage` contract to execute trades.
 
 ## Dependencies
