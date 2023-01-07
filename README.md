@@ -28,7 +28,7 @@ This bot monitors the Uniswap DEX for arbitrage opportunities and executes trade
 
 To start the bot, run the following command:
 
-``` npm start
+``` npm start ```
 
 The bot will run continuously and automatically execute trades when it identifies an arbitrage opportunity.
 
